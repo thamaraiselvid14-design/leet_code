@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
