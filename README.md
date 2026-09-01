@@ -49,5 +49,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
