@@ -27,6 +27,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0125-valid-palindrome) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
