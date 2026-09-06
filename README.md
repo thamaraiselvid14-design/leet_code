@@ -18,6 +18,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0070-climbing-stairs](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
 | ------- |
