@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0498-diagonal-traverse](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0498-diagonal-traverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,4 +93,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0292-nim-game) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
