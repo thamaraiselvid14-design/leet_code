@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0494-target-sum](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0498-diagonal-traverse) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@
 | [0045-jump-game-ii](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0070-climbing-stairs) |
+| [0494-target-sum](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0494-target-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -101,4 +103,16 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0498-diagonal-traverse) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
