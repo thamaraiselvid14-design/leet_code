@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0125-valid-palindrome) |
+| [0796-rotate-string](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0796-rotate-string) |
 ## Memoization
 |  |
 | ------- |
@@ -116,4 +117,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0494-target-sum) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
