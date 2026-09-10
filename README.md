@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0283-move-zeroes) |
+| [0313-super-ugly-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0313-super-ugly-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0494-target-sum](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0498-diagonal-traverse) |
@@ -33,6 +34,7 @@
 | [0045-jump-game-ii](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0070-climbing-stairs) |
+| [0313-super-ugly-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0313-super-ugly-number) |
 | [0494-target-sum](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0494-target-sum) |
 ## Greedy
 |  |
@@ -54,6 +56,7 @@
 | [0070-climbing-stairs](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0313-super-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
