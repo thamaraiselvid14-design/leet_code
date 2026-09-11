@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0283-move-zeroes) |
 | [0313-super-ugly-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0313-super-ugly-number) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0313-super-ugly-number) |
@@ -124,4 +126,24 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0796-rotate-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
