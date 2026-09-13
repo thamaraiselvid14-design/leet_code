@@ -60,6 +60,7 @@
 | [0292-nim-game](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0313-super-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0367-valid-perfect-square) |
+| [1154-day-of-the-year](https://github.com/thamaraiselvid14-design/leet_code/tree/master/1154-day-of-the-year) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0796-rotate-string) |
+| [1154-day-of-the-year](https://github.com/thamaraiselvid14-design/leet_code/tree/master/1154-day-of-the-year) |
 ## Memoization
 |  |
 | ------- |
