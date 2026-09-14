@@ -60,6 +60,7 @@
 | [0292-nim-game](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0313-super-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0367-valid-perfect-square) |
+| [0836-rectangle-overlap](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0836-rectangle-overlap) |
 | [1154-day-of-the-year](https://github.com/thamaraiselvid14-design/leet_code/tree/master/1154-day-of-the-year) |
 ## Sorting
 |  |
@@ -148,4 +149,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
