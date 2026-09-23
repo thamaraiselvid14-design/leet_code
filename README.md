@@ -51,6 +51,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0383-ransom-note) |
 | [0709-to-lower-case](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0796-rotate-string) |
@@ -156,4 +158,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0836-rectangle-overlap) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
