@@ -17,6 +17,7 @@
 | [0494-target-sum](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0498-diagonal-traverse) |
 | [1470-shuffle-the-array](https://github.com/thamaraiselvid14-design/leet_code/tree/master/1470-shuffle-the-array) |
+| [2574-left-and-right-sum-differences](https://github.com/thamaraiselvid14-design/leet_code/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,4 +163,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0383-ransom-note) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/thamaraiselvid14-design/leet_code/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
