@@ -17,6 +17,7 @@
 | [0494-target-sum](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/thamaraiselvid14-design/leet_code/tree/master/0498-diagonal-traverse) |
 | [1470-shuffle-the-array](https://github.com/thamaraiselvid14-design/leet_code/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/thamaraiselvid14-design/leet_code/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/thamaraiselvid14-design/leet_code/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
 |  |
@@ -167,4 +168,12 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/thamaraiselvid14-design/leet_code/tree/master/2574-left-and-right-sum-differences) |
+## Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/thamaraiselvid14-design/leet_code/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/thamaraiselvid14-design/leet_code/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
